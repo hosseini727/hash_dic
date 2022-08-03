@@ -9,7 +9,11 @@ namespace HashTable_Dictionery
         /// <summary>
         /// https://www.tutorialsteacher.com/csharp/csharp-hashtable
         /// https://codecell.ir/a/2d9f
+        /// در دیکشنری، می‌توانید جفت‌های Key/Value را فقط از یک نوع ذخیره کنید.
+        /// در Hashtable، می‌توانید جفت‌های Key/Value از یک نوع یا از نوع های متفاوت را ذخیره کنید.
+        /// 
         /// </summary>
+
         /// <param name="args"></param>
         static void Main(string[] args)
         {

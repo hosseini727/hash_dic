@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Drej2C4c6gjMcuxFlliNDtMT50jC9MtLWp/nwDmLYgi6Ih486T7e5RvhPAKjUTacZFU1sYmI36UuyLxmpzmYxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\e-hosseini\\Desktop\\practis_.net\\HashTable_Dictionery\\HashTable_Dictionery\\HashTable_Dictionery.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\e-hosseini\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.26\\microsoft.netcore.app.host.win-x64.3.1.26.nupkg.sha512"
+  ],
+  "logs": []
+}
